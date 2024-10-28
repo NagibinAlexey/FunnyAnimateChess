@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# buildings and proj
+.vs/
+out/
